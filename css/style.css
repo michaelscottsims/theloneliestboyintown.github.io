@@ -44,7 +44,11 @@ p:hover {
 }
 
 #bg {
-    background: url("../img/websitebackground.jpg") top center/cover;
-    min-height: 100vh;
-    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 50%;
+    height: 100%;
+    background-color: #000;
+    z-index: -1;
 }
