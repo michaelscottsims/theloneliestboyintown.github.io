@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #FFF;
+    color: #000;
+    text-align: center;
+}
+
+a {
+    padding: 0 1.7vmax;
+}
+
+p:hover {
+    cursor: default;
+}
+
+.toplbt {
+    width: 44vmax;
+}
+
+.social {
+
+}
+
+.white {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.black {
+    color: #000;
+    text-decoration: none;
+}
+
+.footer {
+    font-family: arial;
+    font-size: 18px;
+    color: #FFF;
+    text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
+}
+
+#bg {
+    background: url("../img/websitebackground.jpg") top center/cover;
+    min-height: 100vh;
+    width: 100%;
+}
