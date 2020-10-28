@@ -31,9 +31,17 @@ p:hover {
     text-decoration: none;
 }
 
+.white:hover {
+  color: pink;
+}
+
 .black {
     color: #000;
     text-decoration: none;
+}
+
+.black:hover {
+  color: green;
 }
 
 .footer {
