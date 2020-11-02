@@ -26,13 +26,17 @@ p:hover {
 
 }
 
-.white {
+.pink {
     color: #FFF;
     text-decoration: none;
     text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
 }
 
-.white2 {
+.pink:hover {
+  color: pink;
+}
+
+.green {
     font-family: arial;
     font-size: 15px;
     color: #FFF;
@@ -40,34 +44,52 @@ p:hover {
     text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
 }
 
-.white:hover {
-  color: pink;
-}
-
-.white2:hover {
+.green:hover {
   color: lightgreen;
 }
 
-.black {
+.orange {
     margin-left: -5px;
     color: #FFF;
     text-decoration: none;
     text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
 }
 
-.black:hover {
-  color: pink;
+.orange:hover {
+  color: orange;
 }
 
-.black2 {
+.red {
     margin-left: -5px;
     color: #FFF;
     text-decoration: none;
     text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
 }
 
-.black2:hover {
-  color: lightgreen;
+.red:hover {
+  color: tomato;
+}
+
+.purple {
+    margin-left: -5px;
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
+}
+
+.purple:hover {
+  color: palevioletred;
+}
+
+.blue {
+    margin-left: -5px;
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
+}
+
+.blue:hover {
+  color: lightskyblue;
 }
 
 .footer {
