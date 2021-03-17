@@ -18,6 +18,11 @@ p:hover {
     cursor: default;
 }
 
+.LS {
+  width: 300px;
+  /* border: 4px #000 solid; */
+}
+
 .toplbt {
     width: 44vmax;
 }
@@ -127,6 +132,10 @@ p:hover {
     font-size: 18px;
     color: #FFF;
     text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
+}
+
+#link {
+  text-decoration: underline;
 }
 
 #bg {
