@@ -47,8 +47,6 @@ p:hover {
 }
 
 .green {
-    font-family: arial;
-    font-size: 15px;
     color: #FFF;
     text-decoration: none;
     text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
@@ -134,8 +132,21 @@ p:hover {
     text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
 }
 
+.title {
+    font-family: arial;
+    font-size: 21px;
+    color: #FFF;
+    text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
+}
+
+#linkye {
+    font-family: arial;
+    font-size: 15px;
+}
+
 #link {
-  /* text-decoration: underline; */
+    font-family: arial;
+    font-size: 16.5px;
 }
 
 #bg {
