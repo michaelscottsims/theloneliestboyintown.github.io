@@ -141,6 +141,22 @@ p:hover {
   color: lightskyblue;
 }
 
+.grey {
+    margin-left: -5px;
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0.5px -0.5px #000, 1px -1px #000, 1.5px -1.5px #000, 2px -2px #000, 2.5px -2.5px #000, 3px -3px #000, 3.5px -3.5px #000;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.grey:hover {
+  color: lightgrey;
+}
+
 .footer {
     font-family: arial;
     font-size: 18px;
