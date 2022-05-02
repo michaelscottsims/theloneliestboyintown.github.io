@@ -12,6 +12,7 @@ body {
 
 a {
     padding: 0 10px;
+    display: inline-block;
 }
 
 p:hover {
