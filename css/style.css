@@ -24,6 +24,12 @@ p:hover {
   /* border: 4px #000 solid; */
 }
 
+.lf {
+  width: 300px;
+  border: 4px #000 solid;
+  background-color: #000;
+}
+
 .toplbt {
     width: 44vmax;
 }
