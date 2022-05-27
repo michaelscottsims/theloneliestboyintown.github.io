@@ -25,8 +25,8 @@ p:hover {
 }
 
 .lf {
-  max-width: 308px;
-  border: 4px #000 solid;
+  max-width: 304px;
+  outline: 4px #000 solid;
   background-color: #000;
 }
 
