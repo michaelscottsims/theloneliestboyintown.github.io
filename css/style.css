@@ -20,7 +20,7 @@ p:hover {
 }
 
 .LS {
-  width: 150px;
+  max-width: 150px;
   /* border: 4px #000 solid; */
 }
 
